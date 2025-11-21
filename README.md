@@ -1,6 +1,6 @@
 # DESIGN-OF-DIGITAL-CLOCK-USING-BASIC-LOGIC-GATES-AND-AN-OSCILLATOR-CIRCUIT-
 
-![WhatsApp Image 2025-11-22 at 00 33 17_6c94e39e](https://github.com/user-attachments/assets/ffdc3be9-7013-48e1-ab8e-8c985d179ee3)
+![WhatsApp Image 2025-11-22 at 00 33 17_18d96876](https://github.com/user-attachments/assets/25adc7ee-93ca-4ec7-a54f-fa52398d7490)
 
 ![WhatsApp Image 2025-11-22 at 00 33 17_85a0e036](https://github.com/user-attachments/assets/614b7925-2d5d-4e92-acf3-266ad91209c0)
 
